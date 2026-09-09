@@ -1,0 +1,28 @@
+# Виртуальное окружение — самое важное!
+.venv/
+venv/
+env/
+
+# Файлы IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Кэши и временные файлы Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Артефакты тестирования
+.pytest_cache/
+htmlcov/
+.coverage
+coverage.xml
+
+# Локальные настройки, которые не надо выкладывать
+.env
+.DS_Store
+Thumbs.db
