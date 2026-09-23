@@ -1,0 +1,1 @@
+[{"uid":"44e56e8351aaea1d","name":"Неуспешный вход: некорректный пароль","time":{"start":1790154328056,"stop":1790154329114,"duration":1058},"status":"passed","severity":"normal"},{"uid":"1ac9181150feeb12","name":"Успешный вход: корректные логин и пароль","time":{"start":1790154326013,"stop":1790154327622,"duration":1609},"status":"passed","severity":"normal"}]
