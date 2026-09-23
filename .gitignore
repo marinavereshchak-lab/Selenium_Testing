@@ -21,6 +21,8 @@ __pycache__/
 htmlcov/
 .coverage
 coverage.xml
+allure-results/
+
 
 # Локальные настройки, которые не надо выкладывать
 .env
